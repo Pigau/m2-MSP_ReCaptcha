@@ -24,6 +24,7 @@
     <module name="MSP_ReCaptcha" setup_version="1.4.11">
         <sequence>
             <module name="MSP_SecuritySuiteCommon"/>
+            <module name="Magento_Customer"/>
         </sequence>
     </module>
 </config>
